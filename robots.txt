@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uncitysti.github.io/sitemap
+Sitemap: https://uncitysti.github.io/app/sitemap
+Sitemap: https://uncitysti.github.io/assets/sitemap
+Sitemap: https://uncitysti.github.io/css/sitemap
+Sitemap: https://uncitysti.github.io/includes/sitemap
+Sitemap: https://uncitysti.github.io/item/sitemap
+Sitemap: https://uncitysti.github.io/src/sitemap
